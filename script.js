@@ -1,6 +1,6 @@
 //Atividade 1
 // let nome = prompt("Digite seu nome:")
-// alert("Seu nome é: " + nome + " Seja Bem-Vindo")
+// alert("Seja Bem-Vindo " + nome)
 // console.log(nome)
 
 //Atividade 2
